@@ -1,0 +1,21 @@
+{
+  "name": "MMM-NotificationTranslator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "MMM-NotificationTranslator.js",
+  "devDependencies": {},
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Tom-Hirschberger/MMM-NotificationTranslator.git"
+  },
+  "author": "Thomas Hirschberger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tom-Hirschberger/MMM-NotificationTranslator/issues"
+  },
+  "homepage": "https://github.com/Tom-Hirschberger/MMM-NotificationTranslator/#readme"
+}
